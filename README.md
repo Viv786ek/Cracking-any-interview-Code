@@ -1,3 +1,3 @@
 # Cracking-any-interview-Code
-#GFG..
+#GFG...
 .
