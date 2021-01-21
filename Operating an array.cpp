@@ -1,3 +1,4 @@
+/* Complete the function(s) below */
 bool searchEle(int a[],int x)
 {
     int i = 0;
